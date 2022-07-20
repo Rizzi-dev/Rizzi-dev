@@ -1,6 +1,6 @@
-Welcome to my GitHub
-/n My name is Gabriel Rizzi, i'm studying Computer Science at UENP in PR-BR!
-/n For contact use: gabrielrizzi333@gmail.com or follow me on Instagram: @gabrielrizzi113
+# **Welcome to my GitHub**
+## My name is Gabriel Rizzi, i'm studying Computer Science at UENP in PR-BR!
+For contact use: gabrielrizzi333@gmail.com or follow me on Instagram: @gabrielrizzi113
 
 <div align="center">
   <a href="https://github.com/Rizzi-dev">
