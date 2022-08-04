@@ -1,5 +1,5 @@
 # **Welcome to my GitHub**
-## My name is Gabriel Rizzi, i'm studying Computer Science at UENP in PR-BR!
+## My name is Gabriel Rizzi, i'm studying Information Systems at UTFPR in PR-BR!
 For contact use: gabrielrizzi333@gmail.com or follow me on Instagram: @gabrielrizzi113
 
 <div align="center">
