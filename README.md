@@ -60,8 +60,8 @@ I'm the **Founder & CEO** of **[Fervo](https://fervo.online)**, where I also lea
 
 <p align="center">
   <a href="https://github.com/Rizzi-dev">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rizzi-dev&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats"/>
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rizzi-dev&layout=compact&langs_count=7&theme=github_dark&hide_border=true" alt="Top languages"/>
+    <img height="165" src="https://raw.githubusercontent.com/Rizzi-dev/Rizzi-dev/output/stats.svg" alt="GitHub stats"/>
+    <img height="165" src="https://raw.githubusercontent.com/Rizzi-dev/Rizzi-dev/output/top-langs.svg" alt="Top languages"/>
   </a>
 </p>
 
