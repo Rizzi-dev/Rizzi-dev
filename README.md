@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Gabriel Rizzi 👋</h1>
 
 <p align="center">
-  <b>CEO @ <a href="https://fervo.online">Fervo</a></b> · <b>Fullstack & Mobile Developer</b> · B.Sc. in Information Systems from <b>UTFPR</b> — Paraná, Brazil 🇧🇷
+  <b>Co-Founder & CEO @ <a href="https://fervo.online">Fervo</a></b> · <b>Fullstack & Mobile Developer</b> · B.Sc. in Information Systems from <b>UTFPR</b> — Paraná, Brazil 🇧🇷
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
   <a href="https://fervo.online"><img src="https://img.shields.io/badge/fervo.online-Visit-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Fervo"/></a>
 </p>
 
-I'm the **Founder & CEO** of **[Fervo](https://fervo.online)**, where I also lead the tech side hands-on. Fervo is a Brazilian ticketing platform for events, connecting organizers (university athletic associations and venues) with buyers, featuring online sales and on-site point of sale (POS) run by promoters.
+I'm the **Co-Founder & CEO** of **[Fervo](https://fervo.online)**, where I also lead the tech side hands-on. Fervo is a Brazilian ticketing platform for events, connecting organizers (university athletic associations and venues) with buyers, featuring online sales and on-site point of sale (POS) run by promoters.
 
 - 🎟️ Event discovery, cart and checkout via **Mercado Pago**, with QR-code tickets
 - 📱 Web app + mobile app (**React Native / Expo**)
