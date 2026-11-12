@@ -5,6 +5,7 @@
 </p>
 
 <p align="center">
+  <a href="https://rizzi-dev.github.io/my-portfolio/"><img src="https://img.shields.io/badge/Portfolio-RizziOS-FFD23F?style=for-the-badge&labelColor=15172A" alt="Portfolio: RizziOS"/></a>
   <a href="mailto:gabrielrizzi333@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://www.linkedin.com/in/gabrielrizzi113/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://instagram.com/gabrielrizzi113"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
